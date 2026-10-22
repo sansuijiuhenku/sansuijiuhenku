@@ -23,7 +23,3 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=sansuijiuhenku&show_icons=true&theme=gruvbox" alt="NaThan 的 GitHub 统计" />
 </p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sansuijiuhenku&layout=compact&theme=gruvbox" alt="常用编程语言" />
-</p>
