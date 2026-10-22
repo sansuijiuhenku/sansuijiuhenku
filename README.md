@@ -2,7 +2,7 @@
 
 <h3 align="center">保持好奇，持续探索 ✨</h3>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="动态分隔线">
 
 - 👀 喜欢探索有趣的软件、网站与工具
 - 🌱 在学习和实践中不断进步
