@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm NaThan</h1>
 
-<!--
-**sansuijiuhenku/sansuijiuhenku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">保持好奇，持续探索 ✨</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👀 喜欢探索有趣的软件、网站与工具
+- 🌱 在学习和实践中不断进步
+- 💡 在这里记录想法，分享自己的项目
+
+### 🚀 我的项目
+
+欢迎浏览我的 [GitHub 仓库](https://github.com/sansuijiuhenku?tab=repositories)！
+
+### 🛠️ 常用工具
+
+<p>
+  <img src="https://skillicons.dev/icons?i=github,git,vscode" alt="常用工具" />
+</p>
+
+### 🏅 GitHub 统计
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=sansuijiuhenku&show_icons=true&theme=gruvbox" alt="NaThan 的 GitHub 统计" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sansuijiuhenku&layout=compact&theme=gruvbox" alt="常用编程语言" />
+</p>
