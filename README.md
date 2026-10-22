@@ -8,7 +8,7 @@
 - 🌱 在学习和实践中不断进步
 - 💡 在这里记录想法，分享自己的项目
 
-### 🚀 我的项目
+### 🚀 个人仓库
 
 欢迎浏览我的 [GitHub 仓库](https://github.com/sansuijiuhenku?tab=repositories)！
 
